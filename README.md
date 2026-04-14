@@ -1,4 +1,4 @@
-🗃️ Northwind SQL Analytics
+🗃️Northwind Sales Analytics & Reporting — MySQL
 A structured SQL analysis project built on the classic Northwind database using MySQL. This repo walks through four progressive scripts — from setup and exploration to business insights and advanced reporting — demonstrating real-world SQL skills including joins, aggregations, CTEs, window functions, views, and stored procedures.            
 
 
