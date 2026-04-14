@@ -1,4 +1,4 @@
-# Northwind Insights SQL Project (MySQL)
+# Northwind Sales Analytics & Reporting — MySQL
 
 
 ## Project Highlights
